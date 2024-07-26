@@ -3,6 +3,8 @@
  * @param {number} target
  * @return {number[]}
  */
+
+/*leetcode question number 1 */
 var twoSum = function(nums, target) {
     for ( let i = 0 ; i< nums.length ; i++)
     {
